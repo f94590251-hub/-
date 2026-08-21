@@ -1,0 +1,1 @@
+title @s actionbar [{"text":"Mini MC | 돌 ","color":"aqua"},{"score":{"name":"@s","objective":"mcmine.stone"},"color":"white"},{"text":" | 곡괭이 ","color":"aqua"},{"score":{"name":"@s","objective":"mcmine.pickaxe"},"color":"white"},{"text":" | mine/craft/place 트리거 사용","color":"yellow"}]
