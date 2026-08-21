@@ -1,0 +1,6 @@
+execute if score @s aikeep matches 1 run tellraw @s [{"text":"소지품 유지: ","color":"gray"},{"text":"✓ ON","color":"green"},{"text":"  ○ OFF","color":"gray"}]
+execute if score @s aikeep matches 0 run tellraw @s [{"text":"소지품 유지: ","color":"gray"},{"text":"○ ON  ","color":"gray"},{"text":"✓ OFF","color":"red"}]
+execute if score @s airegen matches 1 run tellraw @s [{"text":"자연 재생: ","color":"gray"},{"text":"✓ ON","color":"green"},{"text":"  ○ OFF","color":"gray"}]
+execute if score @s airegen matches 0 run tellraw @s [{"text":"자연 재생: ","color":"gray"},{"text":"○ ON  ","color":"gray"},{"text":"✓ OFF","color":"red"}]
+execute if score @s aimobs matches 1 run tellraw @s [{"text":"몹 생성: ","color":"gray"},{"text":"✓ ON","color":"green"},{"text":"  ○ OFF","color":"gray"}]
+execute if score @s aimobs matches 0 run tellraw @s [{"text":"몹 생성: ","color":"gray"},{"text":"○ ON  ","color":"gray"},{"text":"✓ OFF","color":"red"}]
