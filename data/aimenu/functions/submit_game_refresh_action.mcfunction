@@ -1,0 +1,2 @@
+function aimenu:submit_game
+function aimenu:submit_game_refresh
