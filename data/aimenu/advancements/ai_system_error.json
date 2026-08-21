@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:observer"}, "title": {"text": "시스템 오류?", "color": "dark_red"}, "description": {"text": "AI World의 숨겨진 영역을 발견했습니다."}, "frame": "goal", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"secret": {"trigger": "minecraft:location", "conditions": {"location": {"dimension": "minecraft:overworld"}}}}
+}
