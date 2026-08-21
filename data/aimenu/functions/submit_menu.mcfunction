@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\n        MINECRAFT\n\n","bold":true,"color":"white"},{"text":"[ 싱글플레이 ]","bold":true,"color":"green","clickEvent":{"action":"run_command","value":"/function aimenu:submit_single"}},{"text":"\n\n[ 멀티플레이 ]","bold":true,"color":"aqua"},{"text":"\n\n[ 설정 ]","color":"gray"},{"text":"\n\n[ 게임 종료 ]","color":"red"}]
