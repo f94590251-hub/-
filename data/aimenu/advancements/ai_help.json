@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:book"}, "title": {"text": "AI에게 물어봤다", "color": "aqua"}, "description": {"text": "AI 도움말 시스템을 처음 사용했습니다."}, "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"help": {"trigger": "minecraft:impossible"}}
+}
