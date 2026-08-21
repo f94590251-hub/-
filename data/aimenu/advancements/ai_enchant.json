@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:enchanting_table"}, "title": {"text": "마법의 시작", "color": "light_purple"}, "description": {"text": "인챈트 테이블을 획득했습니다."}, "frame": "goal", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"table": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": "minecraft:enchanting_table"}]}}}
+}
