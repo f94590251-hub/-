@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:obsidian"}, "title": {"text": "다른 차원", "color": "dark_purple"}, "description": {"text": "네더에 처음 입장했습니다."}, "frame": "goal", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"nether": {"trigger": "minecraft:changed_dimension", "conditions": {"from": "minecraft:overworld", "to": "minecraft:the_nether"}}}
+}
