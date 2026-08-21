@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:ender_eye"}, "title": {"text": "엔더의 눈", "color": "light_purple"}, "description": {"text": "엔더의 눈을 획득했습니다."}, "frame": "goal", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"eye": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": "minecraft:ender_eye"}]}}}
+}
