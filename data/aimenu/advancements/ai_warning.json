@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:redstone_torch"}, "title": {"text": "누르지 말라고 했잖아", "color": "red"}, "description": {"text": "금지된 AI 시스템을 작동시켰습니다."}, "frame": "challenge", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"button": {"trigger": "minecraft:impossible"}}
+}
