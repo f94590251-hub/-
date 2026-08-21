@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:iron_ingot"}, "title": {"text": "철의 시작", "color": "white"}, "description": {"text": "처음으로 철 주괴를 획득했습니다."}, "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"iron": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": "minecraft:iron_ingot"}]}}}
+}
