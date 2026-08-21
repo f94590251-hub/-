@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {"id": "minecraft:crafting_table"},
+    "title": {"text": "AI 빌더", "color": "aqua"},
+    "description": {"text": "AI World에서 처음으로 제작대를 사용했습니다."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {"items": "minecraft:crafting_table"}
+        ]
+      }
+    }
+  }
+}
