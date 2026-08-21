@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:flint_and_steel"}, "title": {"text": "차원의 문", "color": "dark_purple"}, "description": {"text": "네더 차원문을 사용했습니다."}, "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"portal": {"trigger": "minecraft:changed_dimension", "conditions": {"to": "minecraft:the_nether"}}}
+}
