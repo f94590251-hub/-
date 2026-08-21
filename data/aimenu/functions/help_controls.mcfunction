@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\n🎮 기본 조작\n\n","bold":true,"color":"green"},{"text":"W A S D — 이동\nSpace — 점프\nShift — 웅크리기\n마우스 왼쪽 — 공격 / 블록 파괴\n마우스 오른쪽 — 사용 / 블록 설치\nE — 소지품\n\n","color":"white"},{"text":"TIP: 처음이라면 주변을 둘러보고 필요한 자원을 모아보세요!","color":"yellow"}]
