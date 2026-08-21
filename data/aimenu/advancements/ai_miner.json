@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:stone_pickaxe"}, "title": {"text": "AI 광부", "color": "gray"}, "description": {"text": "처음으로 돌 곡괭이를 획득했습니다."}, "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"pickaxe": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": "minecraft:stone_pickaxe"}]}}}
+}
