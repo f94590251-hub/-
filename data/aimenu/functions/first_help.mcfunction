@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\n💡 처음 플레이하시나요?\n\n","bold":true,"color":"gold"},{"text":"무엇을 해야 할지 모르겠다면 도움말을 확인하세요.\n\n","color":"white"},{"text":"[ 도움말 열기 ]","color":"aqua","bold":true,"clickEvent":{"action":"run_command","value":"/function aimenu:help"}}]
