@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:bread"}, "title": {"text": "첫 식사", "color": "gold"}, "description": {"text": "처음으로 음식을 먹었습니다."}, "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"eat": {"trigger": "minecraft:consume_item", "conditions": {"item": {"items": "minecraft:bread"}}}}
+}
