@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:gold_ingot"}, "title": {"text": "황금의 길", "color": "yellow"}, "description": {"text": "금괴를 처음 획득했습니다."}, "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"gold": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": "minecraft:gold_ingot"}]}}}
+}
