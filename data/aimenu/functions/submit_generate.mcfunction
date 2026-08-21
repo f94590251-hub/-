@@ -1,3 +1,4 @@
+function aimenu:ai_loading
 title @s times 5 40 5
 title @s title {"text":"새로운 세계","bold":true,"color":"white"}
 title @s subtitle {"text":"세계 생성 중...","color":"gray"}
