@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {"id": "minecraft:compass"},
+    "title": {"text": "AI 탐험가", "color": "gold"},
+    "description": {"text": "AI World의 새로운 장소를 탐험했습니다."},
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "explore": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "dimension": "minecraft:overworld"
+        }
+      }
+    }
+  }
+}
