@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\n💾 저장하고 나가기\n\n","bold":true,"color":"red"},{"text":"게임 메뉴의 저장하고 나가기를 선택하면 월드 저장 절차를 실행합니다.\n\n","color":"white"},{"text":"주의: 데이터팩은 Minecraft 클라이언트 자체의 종료/타이틀 전환을 직접 제어할 수 없습니다. 실제 클라이언트 종료는 Minecraft의 기본 메뉴를 사용하세요.","color":"yellow"}]
