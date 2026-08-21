@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\n멀티플레이\n\n","bold":true,"color":"aqua"},{"text":"현재 월드에서는 멀티플레이 서버 목록을 직접 만들 수 없습니다.\n","color":"gray"},{"text":"하지만 데이터팩 기반 서버 메뉴 시연은 가능합니다.\n\n","color":"gray"},{"text":"[ 뒤로가기 ]","color":"yellow","clickEvent":{"action":"run_command","value":"/function aimenu:load"}}]
