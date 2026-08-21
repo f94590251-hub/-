@@ -1,0 +1,1 @@
+tellraw @s ["",{"text":"\n===== 멀티플레이 =====\n","color":"white","bold":true},{"text":"\n이 기술시연 버전에서는 멀티플레이 메뉴를 UI 목업으로 제공합니다.\n","color":"gray"},{"text":"\n[ 서버 목록 새로고침 ]\n","color":"aqua"},{"text":"\n[ 뒤로 ]","color":"gray","clickEvent":{"action":"run_command","value":"/function aimenu:menu/main"}}]
