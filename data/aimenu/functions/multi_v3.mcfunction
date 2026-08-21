@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\nMULTIPLAYER\n\n","bold":true,"color":"aqua"},{"text":"SERVER LIST\n\n","color":"gray"},{"text":"  AI VANILLA DEMO     ","color":"white"},{"text":"ONLINE","color":"green"},{"text":"\n\n[ BACK ]","color":"yellow","clickEvent":{"action":"run_command","value":"/function aimenu:v3"}}]
