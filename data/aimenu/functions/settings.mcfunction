@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\n설정\n\n","bold":true,"color":"gray"},{"text":"시연 버전에서는 게임 내 그래픽/소리/조작 설정을 데이터팩으로 표현합니다.\n\n","color":"white"},{"text":"[ 뒤로가기 ]","color":"yellow","clickEvent":{"action":"run_command","value":"/function aimenu:load"}}]
