@@ -1,0 +1,1 @@
+function aimenu:submit_game_dynamic
