@@ -1,0 +1,1 @@
+tellraw @s [{"text":"\n        싱글플레이\n\n","bold":true,"color":"white"},{"text":"[ 새로운 세계 만들기 ]","color":"green","clickEvent":{"action":"run_command","value":"/function aimenu:create"}},{"text":"\n\n[ 뒤로가기 ]","color":"gray","clickEvent":{"action":"run_command","value":"/function aimenu:load"}}]
