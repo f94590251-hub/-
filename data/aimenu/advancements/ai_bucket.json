@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:water_bucket"}, "title": {"text": "물 한 바가지", "color": "aqua"}, "description": {"text": "물 양동이를 처음 사용했습니다."}, "frame": "task", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"bucket": {"trigger": "minecraft:inventory_changed", "conditions": {"items": [{"items": "minecraft:water_bucket"}]}}}
+}
