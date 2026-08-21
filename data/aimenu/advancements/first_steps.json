@@ -1,0 +1,15 @@
+{
+  "display": {
+    "icon": {"id": "minecraft:grass_block"},
+    "title": {"text": "첫걸음", "color": "green"},
+    "description": {"text": "AI World에서 처음으로 이동했습니다."},
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "move": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
