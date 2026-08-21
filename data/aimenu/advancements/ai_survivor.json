@@ -1,0 +1,15 @@
+{
+  "display": {
+    "icon": {"id": "minecraft:shield"},
+    "title": {"text": "AI 생존자", "color": "red"},
+    "description": {"text": "AI World에서 첫 밤을 견뎠습니다."},
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "survive": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
