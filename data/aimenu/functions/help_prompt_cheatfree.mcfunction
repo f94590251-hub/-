@@ -1,0 +1,1 @@
+tellraw @s [{"text":"💡 도움말이 필요하신가요? ","color":"gold","bold":true},{"text":"[ 도움말 보기 ]","color":"aqua","bold":true,"clickEvent":{"action":"run_command","value":"/trigger ai_help set 1"},"hoverEvent":{"action":"show_text","value":"치트가 꺼져 있어도 사용할 수 있습니다."}}]
