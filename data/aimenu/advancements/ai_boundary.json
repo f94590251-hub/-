@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:barrier"}, "title": {"text": "월드의 끝", "color": "dark_purple"}, "description": {"text": "AI World가 준비한 경계에 도달했습니다."}, "frame": "challenge", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"edge": {"trigger": "minecraft:location", "conditions": {"location": {"dimension": "minecraft:overworld"}}}}
+}
