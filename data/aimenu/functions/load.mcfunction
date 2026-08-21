@@ -1,0 +1,3 @@
+scoreboard objectives add aimenu dummy
+scoreboard objectives add aimenu_click trigger
+tellraw @a [{"text":"\n      MINECRAFT\n","bold":true,"color":"green"},{"text":"[ 싱글플레이 ]","color":"yellow","clickEvent":{"action":"run_command","value":"/function aimenu:single"}},{"text":"  "},{"text":"[ 멀티플레이 ]","color":"aqua","clickEvent":{"action":"run_command","value":"/function aimenu:multi"}},{"text":"\n[ 설정 ]","color":"gray","clickEvent":{"action":"run_command","value":"/function aimenu:settings"}},{"text":"  "},{"text":"[ 게임 종료 ]","color":"red","clickEvent":{"action":"run_command","value":"/function aimenu:quit"}}]
