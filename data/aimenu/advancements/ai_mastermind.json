@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id": "minecraft:brain_coral"}, "title": {"text": "AI보다 먼저 생각했다", "color": "light_purple"}, "description": {"text": "AI World의 숨겨진 퍼즐을 해결했습니다."}, "frame": "challenge", "show_toast": true, "announce_to_chat": true},
+  "criteria": {"puzzle": {"trigger": "minecraft:impossible"}}
+}
