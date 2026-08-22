@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id":"minecraft:command_block"},"title":{"text":"AI와 첫 접촉","color":"aqua"},"description":{"text":"AI WORLD에 처음 접속했습니다."},"frame":"task","show_toast":true,"announce_to_chat":true},
+  "criteria": {"enter":{"trigger":"minecraft:location"}}
+}

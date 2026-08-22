@@ -1,0 +1,4 @@
+{
+  "display": {"icon": {"id":"minecraft:nether_star"},"title":{"text":"AI CORE","color":"light_purple"},"description":{"text":"AI WORLD의 최종 코어에 도달했습니다."},"frame":"challenge","show_toast":true,"announce_to_chat":true},
+  "criteria": {"core":{"trigger":"minecraft:location"}}
+}
