@@ -1,3 +1,4 @@
+scoreboard players enable @a ai_menu
 execute as @a[scores={ai_chapter=0}] run function aimenu:prologue
 execute as @a[scores={ai_chapter=1,ai_progress=0}] run function aimenu:chapter1
 execute as @a[scores={ai_chapter=2,ai_progress=0}] run function aimenu:chapter2
