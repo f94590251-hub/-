@@ -6,4 +6,5 @@ execute as @a[scores={ai_chapter=3,ai_progress=0}] run function aimenu:chapter3
 execute as @a[scores={ai_chapter=4,ai_progress=0}] run function aimenu:chapter4
 execute as @a[scores={ai_chapter=5,ai_progress=0}] run function aimenu:chapter5
 execute as @a[scores={ai_chapter=6,ai_progress=0}] run function aimenu:chapter6
+execute as @a run function aimenu:long_tick
 execute as @a[scores={ai_menu=1..}] run function aimenu:menu
