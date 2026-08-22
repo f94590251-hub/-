@@ -1,5 +1,6 @@
 scoreboard players set @s ai_chapter 1
 scoreboard players set @s ai_progress 0
+scoreboard players set @s ai_build 0
 title @s title {"text":"AI WORLD","color":"aqua"}
 title @s subtitle {"text":"PROLOGUE — 접속 완료","color":"gray"}
 playsound minecraft:block.beacon.activate master @s ~ ~ ~ 0.8 1
